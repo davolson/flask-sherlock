@@ -1,4 +1,4 @@
-## Watson
+## Sherlock
 
 Welcome to Sherlock project. Sherlock is a movie recommendation microservice written in Flask.
 
